@@ -1,7 +1,3 @@
-![Downloads](https://img.shields.io/github/downloads/OmiJod/moon-permakill/total?logo=github)
-![Contributors](https://img.shields.io/github/contributors/OmiJod/moon-permakill?color=blue)
-![Release](https://img.shields.io/github/v/release/OmiJod/moon-permakill?label=release)
-
 # QBCore Perma-Kill System
 
 A lightweight and effective **Perma-Kill system** for QBCore-based servers that allows you to **permanently kill a character** without deleting their data. This system prevents dead characters from being selected on login, while offering server admins control via recovery commands.
